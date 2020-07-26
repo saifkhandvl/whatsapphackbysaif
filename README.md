@@ -53,11 +53,21 @@ https://www.youtube.com/playlist?list=PLEghjWPVFpfcYEFPnJVaXvwh1uSOkkDV6
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/saifkhandvl/whatsapphackbysaif/
-cd AdvPhishing/
+*git clone https://github.com/saifkhandvl/whatsapphackbysaif/
+* cd AdvPhishing/
 * chmod 777 setup.sh
-* ./start.sh
-* ./An-AdvPhishing.sh
+* ./setup.sh
+* ./AdvPhishing.sh
+
+### AVAILABLE TUNNELLING OPTIONS
+1. LOCALHOST
+2. NGROK (https://ngrok.com/)
+### TESTED ON FOLLOWING:-
+* Kali Linux - 2020.1a (version)
+* Parrot OS - Rolling Edition (version)
+* Ubuntu - 18.04 (version)
+* Arch Linux
+* Termux 
 
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/saifkhandvl/whatsapphackbysaif/
